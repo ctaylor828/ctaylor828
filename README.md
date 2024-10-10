@@ -4,7 +4,7 @@ welcome to my github!
 
 i am a cs major at uic, graduating this december.
 
-i like code, cats and food
+i like coding, cats, plants, books and food
 
 interested in anything front-end or 🔥 cyber security-related 
 
