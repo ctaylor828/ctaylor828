@@ -1,16 +1,13 @@
-## Hi there 👋
+# $${\color{lightpink}ciara's \space github}$$ ✨
 
-<!--
-**ctaylor828/ctaylor828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my github!
 
-Here are some ideas to get you started:
+i am a cs major at uic, graduating this december.
 
--->
-- 🔭 I’m currently working on finishing my undergrad
-- 🌱 I’m currently learning network security, secure computer systems & secure web applications
-- 👯 I’m looking to collaborate on fun web apps
-- 🤔 I’m looking for help with learning react
-- 💬 Ask me about my favorite video game
-- 📫 How to reach me: smartcst@yahoo.com
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: i have a monstera named samuel
+i like code, cats and food
+
+interested in anything front-end or 🔥 cyber security-related 
+
+![alt text](https://i.pinimg.com/736x/77/3d/db/773ddb359b545a441b23558228bb4fa5.jpg)
+
+# [![](https://img.shields.io/badge/linkedin-lightpink?style=for-the-badge)](https://www.linkedin.com/in/ciara-taylor-6a6620230/)
